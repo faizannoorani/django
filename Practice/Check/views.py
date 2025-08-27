@@ -15,7 +15,8 @@ from .models import Student
 from .serializers import StudentSerializer
 from .models import Department
 from .serializers import DepartmentSerializer
-from .models import Teacher 
+from .models import Teacher
+
 from .serializers import TeacherSerializer
 from .models import Cources
 from .serializers import CourcesSerializer 
